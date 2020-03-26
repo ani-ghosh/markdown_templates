@@ -1,0 +1,288 @@
+---
+title: "CV"
+author: "Aniruddha Ghosh"
+email: A.Ghosh@cgiar.org
+output:
+  word_document: default
+  pdf_document:
+    latex_engine: pdflatex
+    template: rap-latex-cv.tex
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 10pt
+geometry: margin=1in
+github: ani-ghosh
+jobtitle: Agricultural Risk Data Scientist
+keywords: RMarkdown, academic CV, template
+linkcolor: blue
+orcid: orcid.org/0000-0003-3667-8019
+fontawesome: yes
+phone: +254 796 060763
+address: Alliance of Bioversity International and CIAT Africa Hub, Nairobi , Kenya
+updated: yes
+urlcolor: blue
+---
+
+# EDUCATION
+
+*TERI University*, Ph.D., Natural Resources Management \hfill 2014
+
+*University of Delhi*, M.Sc. Physics \hfill 2009
+
+*University of Calcutta*, B.Sc. Physics \hfill 2006
+
+# EMPLOYMENT
+
+*Alliance of Bioversity International and CIAT, Nairobi, Kenya:* \hfill 2020--
+
+ > Coordinate climate impact modeling to assess impact of climate variability on agriculture 
+ 
+ > Develop agriculture risk profiling system and database
+
+*University of California, Davis, California:*  \hfill 2015--2020
+
+ > Develop big data and machine learning analytics tools for agriculture monitoring and crop yield prediction to support agriculture index insurance
+ 
+ > Project management and coordinate collaborative research efforts of the \href{gfc.ucdavis.edu}{Geospatial and Farming Systems Research Consortium (GFC)}
+ 
+ > Organize workshops on spatial data science for agriculture with free and open source tools
+
+*Colorado State University, Fort Collins, Colorado:*  \hfill 2014--2015 
+
+ > Characterize post-fire vegetation recovery using remote sensing
+ 
+*TERI University, New Delhi, India:*  \hfill 2009--2014
+
+ >  Multi-sensor remote sensing image fusion for different environmental applications
+
+*University of Freiburg, Freiburg, Germany:*  \hfill 2012
+
+ >  Hyperspectral and LiDAR data analysis for forestry applications
+
+# PUBLICATIONS
+
+## **Journal Articles**
+
+ > Smith, J., Ghosh, A., Hijmans, RJ., Agricultural intensification is associated with crop diversification in India. \emph{PLoS ONE}, 14(12), 2019.
+
+ > Marshall, M., Crommelinck, S., Kohli, D., Perger, C., Yang, M., Ghosh, A., Fritz, S., de Bie, K., Nelson, A. Crowd-driven and automated mapping of field boundaries in highly fragmented agricultural landscapes of Ethiopia with very high spatial resolution imagery. \emph{Remote Sensing}, 11(18), 2019.
+
+ > Shew, A., Ghosh, A., Identifying Dry Season Rice Planting Patterns in Bangladesh using the Landsat Archive. \emph{Remote Sensing}, 11(10), 2019.
+
+ > Shew, A., Durand-Morat, A., Putman, B., Nalley, L.L., Ghosh, A., Rice Intensification in Bangladesh Improves Economic and Environmental Welfare. \emph{Environmental Science and Policy}, 95, 46--57, 2019.
+
+ > Chakraborty, A., Ghosh, A., Sachdeva, K., Joshi, PK., Characterizing fragmentation trends of the Himalayan forests in the Kumaon region of Uttarakhand, India. \emph{Ecological Informatics}, 38, 95--109, 2016.
+
+ > Fassnacht, FE., Latifi, H., Stere{\'n}czak, K., Modzelewska, A., Lefsky, M., Waser, LT., Straub, C., Ghosh, A., Review of studies on tree species classification from remotely sensed data. \emph{Remote Sensing of Environment}, 186(1), 64--87, 2016.
+
+ > Ghosh, A., Joshi, PK., Hyperspectral imagery for disaggregation of land surface temperature with selected regression algorithms over different land use land cover scenes. \emph{ISPRS Journal of Photogrammetry and Remote Sensing}, 96, 76--93, 2014.
+
+ > Fassnacht, FE., Neumann, C., Forster, M., Buddenbaum, H., Ghosh, A., Clasen, A., Joshi, PK., Koch, B., Comparison of Feature Reduction Algorithms for Classifying Tree Species With Hyperspectral Data on Three Central European Test Sites. \emph{IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 7(6), 2547--2561, 2014.
+
+ > Ghosh, A., Sharma, R., Joshi, PK., Random forest classification of urban landscape using Landsat archive and ancillary data: Combining seasonal maps with decision level fusion. \emph{Applied Geography}, 48, 31--41, 2014.
+
+ > Fassnacht, FE., Latifi, H., Ghosh, A., Joshi, PK., Koch, B., Assessing the potential of hyperspectral imagery to map bark beetle-induced tree mortality. \emph{Remote Sensing of Environment}, 140, 533--548, 2014.
+
+ > Ghosh, A., Joshi, PK., A comparison of selected classification algorithms for mapping bamboo patches in lower Gangetic plains using very high resolution WorldView 2 imagery. \emph {International Journal of Applied Earth Observation and Geoinformation}, 26, 298--311, 2014.
+
+ > Ghosh, A., Fassnacht, FE., Joshi, PK., Koch, B., ``A framework for mapping tree species combining hyperspectral and LiDAR data: Role of selected classifiers and sensor across three spatial scales." \emph {International Journal of Applied Earth Observation and Geoinformation}, 26, 49--63, 2014.
+
+ > Ghosh, A., Joshi, PK., Assessment of pan-sharpened very high-resolution WorldView-2 images. \emph{International Journal of Remote Sensing}, 34(23), 8336--8359, 2013.
+
+ > Chakraborty, A., Joshi, PK., Ghosh, A., Areendran, G., Assessing biome boundary shifts under climate change scenarios in India. \emph{Ecological Indicators}, 34, 536--547, 2013.
+
+ > Joshi, PK., Ghosh, A., Chakraborty, A., Sharma, R., Joshi, A., Landsat again – continuing remote sensing, monitoring, mapping and measuring. \emph{Current Science}, 105(6), 761--763, 2013.
+
+ > Biswal, S., Ghosh, A., Sharma, R., Joshi, PK., Satellite Data Classification Using Open Source Support. \emph{Journal of the Indian Society of Remote Sensing}, 41(3), 523--530, 2013.
+
+ > Sharma, R., Ghosh, A., Joshi, PK., Analysing spatio-temporal footprints of urbanization on environment of Surat city using satellite-derived bio-physical parameters. \emph{Geocarto International}, 28(5), 420--438, 2013.
+
+ > Ghosh, A., Joshi, PK., Remote sensing of moving objects. \emph{Current Science}, 104(12), 1613--1615, 2013.
+
+ > Ghosh, A., Joshi, PK., Garg, RD., Mukherjee, S., Identification of invasive plant species using field spectro-radiometer and simulated Hyperion spectra -- a rapid mapping of invasiveness. \emph{Current Science}, 104(9), 1148--1151, 2013.
+
+ > Mukherjee, S., Joshi, PK., Mukherjee, S., Ghosh, A., Garg, RD., Mukhopadhyay, A., Evaluation of vertical accuracy of open source Digital Elevation Model (DEM). \emph {International Journal of Applied Earth Observation and Geoinformation}, 21, 205--207, 2013.
+
+ > Sharma, R., Ghosh, A., Joshi, PK., Decision tree approach for classification of remotely sensed satellite data using open source support. \emph{Journal of Earth System Science}, 122(5), 1237--1247, 2013.
+
+ > Sharma, R., Ghosh, A., Joshi, PK., Spatio-temporal footprints of urbanisation in Surat, the Diamond City of India (1990--2009). \emph {Environmental monitoring and assessment}, 185(4), 3313--3325, 2013.
+
+ > Ghosh, A., Munshi, M., Areendran, G., Joshi, PK., Pattern space analysis of landscape metrics for detecting changes in forests of Himalayan foothills. \emph{Asian Journal of Geoinformatics}, 12(1), 2012.
+
+ > Joshi, PK., Narula, S., Rawat, A., Ghosh, A., Landscape characterization of Sariska National Park (India) and its surroundings. \emph{Geo-spatial Information Science}, 14(4): 303--310, 2011.
+
+ > Munsi, M., Areendran, G., Ghosh, A., Joshi, PK.  Landscape characterisation of the forests of Himalayan foothills. \emph{Journal of the Indian Society of Remote Sensing}, 38(3):441--31452, 2010.
+
+## **Proceedings**
+
+ > Shew, A., Ghosh, A., Using multi-temporal remote sensing data to understand the spatio-temporal patterns of dry season rice production in Bangladesh. \emph{ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Volume IV-4/W2}, 2017.
+ 
+ > Ghosh, A., Fassnacht, FE., Joshi, PK., Koch, B., Tree species mapping using multi-sensor (hyperspectral \& LiDAR) data: Effect of sensor, scale, and classifier. \emph{Land-use Related Biodiversity in India: Seminar Proceedings}, 2014.
+ 
+  > Ghosh, A., Joshi, PK., Identification of bamboo patches in the lower Gangetic plains using very high resolution WorldView 2 imagery. \emph{Proc. SPIE 8893, Earth Resources and Environmental Remote Sensing/GIS Applications IV, 889310}, 2013.
+ 
+# TEACHING
+
+## **Courses**
+
+*University of California, Davis* \hfill 2016--2018
+
+> Co-instructor in Environmental Analysis using GIS and Quantitative Geography
+  
+*TERI University, India* \hfill 2011--2014
+
+> Designed and taught courses on Applied Mathematics, Advances in Remote Sensing and Digital Image Processing & Information Extraction 
+
+## **Workshops/ Training**
+
+ > Free and Open Source Software for AgroGeoinformatics (FOSS4AG), Dhaka, Bangladesh, February 2020.
+
+ > Spatial Data Analysis with R and Remote Sensing with Google Earth Engine, Ibadan, Nigeria, January 2020.  
+
+ > Using R as an Open Source Geographic Information System, 2019 Training & Symposium Arkansas GIS Users Forum, Eureka Springs, AR, October 2019. 
+
+ > Spatial Distribution Modeling with R, GeoVet 2019, Davis, CA, October 2019.
+
+ > Remote sensing for agricultural insurance, RCMRD, Nairobi, Kenya, July 2019.
+
+ > Spatial analysis with R, Phnom Penh, Cambodia, December 2018.
+
+ > 2\textsuperscript{nd} International Workshop on Advanced R \& R-QTL, ICRISAT, India, December 2018.
+
+ > Program committee for CGIAR-SIIL track, FOSS4G 2018, (Free and Open Source For Geospatial 2018), Tanzania, August 2018.
+
+ > Spatial Data Analysis and Modeling for Agricultural Development, with R. Tanzania, August 2016.
+
+ > Introduction to Google Earth Engine platform: Introduction and hands-on workshop, Davis, CA, April 2016.
+
+# Technical Skills
+
+## **Computational**
+
+ > Programming Languages: R, Python, JavaScript
+
+ > Remote Sensing Image Processing: Google Earth Engine APIs, ENVI-IDL,ERDAS-Imagine, PCI-Geomatica, eCognition, Pix4D
+
+ > Other: ArcGIS, QGIS, Fragstats, ImageJ
+
+## **Software Development**
+
+ > \href{https://cran.r-project.org/web/packages/raster/index.html}{raster : Geographic Data Analysis and Modeling} (contributor) 
+
+ > \href{https://github.com/rspatial/luna}{luna : satellite remote sensing tools}(co-author)
+
+## **Equipment**
+
+ > Unmanned Aerial Vehicle (UAV) for agricultural applications
+
+ > ASD Field spectroradiometer, LiCOR Plant Canopy Analyzer
+
+# AWARDS
+
+## **Fellowships**
+
+ > Junior and Senior Research Fellowship, CSIR, Government of India\hfill 2009 -- 2014 
+
+ > Merit Scholarship from \emph{Minist{\`e}re de l\`{}{\'E}ducation, du Loisir	et du	Sport	du Qu{\'e}bec} for Post-Doctoral Research at McGill University, Canada \emph{(not availed)}\hfill 2014
+
+ > DAAD Exchange Fellowship for PhD Students\hfill Sep 2012 -- Nov 2012
+
+## **Travel**
+
+ > Academic Federation Faculty Research Travel Grant, UC Davis for Participating in FOSS4G Annual Conference, Dar es Salaam, Tanzania\hfill August 2018
+
+ > Young	Scientist Travel Fellowship	Award, SERB (DST-India) for	Participating in SPIE Remote Sensing conference, Dresden, Germany\hfill Sep 2013
+
+ > SPIE Travel Grant\hfill Sep 2013
+
+## **Data/Instrument**
+
+ > DigitalGlobe Imagery Grant\hfill 2012
+ 
+ > Alexander Goetz Instrument Support Program \emph{(not availed)}\hfill 2012
+
+# PRESENTATIONS
+
+## **Conference**
+
+ > Shew, AM., Ghosh, A., Track, JB., Nalley, LL., Estimating Crop Planting Delays and Phenological Variation caused by Extreme Rainfall Events in the US Lower Mississippi River Basin using Earth Observation Systems. \emph{AGU Fall Meeting 2019} \hfill{Dec 2018}
+
+ > Wang, H., Ghosh, A., Hijmans, RJ., Climate-Driven Changes in Rice Phenology in California. \emph{AGU Fall Meeting 2019} \hfill{Dec 2018}
+
+ > Springborn, M.R., Weill, J.A., Lips, K.R., Ibanez, R.,Ghosh, A., Ecosystem Service Impacts of Ecological Disruption: Evidence from Malaria Incidence in Central America. \emph{GeoVet 2019. Novel spatio-temporal approaches in the era of Big Data, Davis, CA}. \hfill {Oct, 2019}
+
+ > Shew, AM., Owens, P.R., Ghosh, A., Solving Agricultural and Environmental Problems: GIS Today and Tomorrow. \emph{AR GIS Users Forum and OPENGATE Outreach Partnership Conference, Little Rock, AR}. \hfill {Nov, 2018}
+
+ > Wang, H., Ghosh, A., Mapping paddy rice cropping pattern and phenology in Cambodia. \emph{FOSS4G 2018, Dar es Salaam, Tanzania.} \hfill{Aug 2018}
+
+ > Lwehabura, J., Stewart, ZP., Rubyogo, JC., Prasad, PVV., Mason, N., Ghosh, A., Geospatial Analysis to Spur Technology Adoption for Increasing Bean Productivity in Tanzania. \emph{FOSS4G 2018, Dar es Salaam, Tanzania.} \hfill{Aug 2018}
+
+ > Tiedeman, K., Ghosh, A., Landcover classification with R and Google Earth Engine to predict Human-elephant conflict. \emph{FOSS4G 2018, Dar es Salaam, Tanzania.} \hfill{Aug 2018} 
+
+ > Lwehabura, J., Stewart, ZP., Rubyogo, JC., Prasad, PVV., Ghosh, A., Mason, N., Increasing Technology Adoption and Scaling through Mother-Baby Trials Paired with Geospatial Analysis of Enabling Biophysical and Socioeconomic Conditions. \emph{ 1st International Sustainable Agricultural Intensification and Nutrition (SAIN) Conference, Phnom Penh, Cambodia}. \hfill{Jan 2018}.
+
+ > Shew, AM., Ghosh, A., Durand-Morat, A., Nalley, L.L., Food security impacts from the adoption of dry season hybrid and HYV rice production in Bangladesh.\emph{3rd International Conference on Global Food Security, Cape Town, South Africa}. \hfill{Dec 2017}.
+
+ > Ghosh, A., Mandel, A., Hijmans, RJ., Developing Scalable Information Extraction Processing Pipelines using R for Earth Observation Applications.\emph{FOSS4G 2017, Boston, USA.} \hfill{Aug 2017}
+
+ > Mandel, A., Ghosh, A., Hijmans, RJ., Rspatial.org, tutorials for learning Spatial R.\emph{FOSS4G 2017, Boston, USA.} \hfill{Aug 2017}
+ 
+ > Shew, A., Ghosh, A., Using multi-temporal remote sensing data to understand the spatio-temporal patterns of dry season rice production in Bangladesh.\emph{2\textsuperscript{nd} International Symposium on Spatiotemporal Computing, Boston, USA.} \hfill{Aug 2017}
+
+ > Ghosh, A., Joshi, PK., Identification of bamboo patches in the lower Gangetic plains using very high resolution WorldView 2 imagery. \emph{SPIE Remote Sensing, Dresden, Germany.} \hfill{Sep 2013}
+
+ > Fassnacht, FE., Latifi, H., Ghosh, A., Joshi, PK., Koch, B., Assessing the potential of hyperspectral imagery to map bark beetle-induced tree mortality. \emph{SPIE Remote Sensing, Dresden, Germany.} \hfill{Sep 2013}
+
+ > Ghosh, A., Fassnacht, FE., Joshi, PK., Koch, B., Tree species	mapping using Hyperspectral	imagery: effect	of scale and classifier. \emph{ 8\textsuperscript{th} EARSeL Imaging Spectrometry Workshop, Nantes, France.} \hfill{April 2013}
+
+ > Chakraborty, A., Joshi, PK., Ghosh, A., Areendran, G., Mapping biomes of India using Holdridge Life Zone Model -- identifying footprints of climate change. \emph{13\textsuperscript{th} ESRI India User Conference.} \hfill{2012}
+
+ > Sharma, R., Joshi, PK., Ghosh, A., Green and Grey Mosaics of Sustainable Urban Society. \emph{Planet Under Pressure, London.}\hfill{2012}
+ 
+## **Invited**
+
+ > Ghosh, A., Remote Sensing Image Processing with Open Source Software. \emph{Sacramento GIS User Group, CA.} \hfill{Jan 2019}
+
+ > Ghosh, A., Mapping Surface Water Change with Google Earth Engine. \emph{Maptime Davis, CA.} \hfill{April 2018}
+
+ > Hollarsmith, J., Tiedeman, K., Ghosh, A., Remote Sensing of Kelp: preliminary results and challenges. \emph{Puget Sound Kelp Recovery Plan Workshop WebEx.} \hfill{Mar 2018}
+
+ > Shew, A., Durand-Morat, A., Putman, W., Nalley, L., Ghosh, A., Estimating Global Food Security Impacts from Hybrid and HYV Rice Adoption in Bangladesh. \emph{International Hybrid Rice Symposium in Yogyakarta, Indonesia.} \hfill{Feb 2018} 
+
+ > Shew, A., Ghosh, A., Identifying Dry Season Rice Areas in Bangladesh at 30 m Resolution Using the Landsat Archive, Time Series Analysis, and Google Earth Engine. \emph{International Hybrid Rice Symposium in Yogyakarta, Indonesia.} \hfill{Feb 2018}
+
+ > Ghosh, A., Finding Remote Sensing Data. \emph{Maptime Davis, CA.} \hfill{Feb 2018}
+
+ > Ghosh, A., Using OpenStreetMap Data. \emph{Maptime Davis, CA.} \hfill{Dec 2017}
+
+ > Ghosh, A. The U.S. Government's Global Food Security Research Strategy: From Upstream Research to Development Impact, \emph{Board for International Food and Agricultural Development (BIFAD) public meeting, Washington, DC.} \hfill{Sep 2017} 
+
+ > Ghosh, A., Mandel, A., Hijmans, RJ., Geospatial Consortium, \emph{USAID Workshop on Innovation for Data-Driven Agriculture, Boulder, CO.} \hfill{April 2017}
+
+ > Ghosh, A., \emph{OSGeo California Chapter Annual Meeting, Davis, CA.} hfill{Jan 2016}
+
+# PROFESSIONAL SERVICE
+
+## **Academic** \hfill {2015 -- 2020}
+ > Coordinator, Center for Spatial Sciences, University of California, Davis
+
+ > Scientific Committee member of the Academic Track of FOSS4G 2018 (Free and Open Source For Geospatial 2018), Tanzania, August 2018
+
+## **Journal Reviewer** \hfill {2011 -- }
+
+ > \emph{Advances in Space Research, Applied Geography, Applied Sciences, Arabian Journal of Geosciences, Canadian Jounral of Remote Sensing, Ecological Indicators, Egyptian Journal of Remote Sensing, Environmental Earth Sciences, Environmental Research Letters, European Journal of Remote Sensing, Geocarto International, GIScience \& Remote Sensing, IEEE Transactions on Geoscience and Remote Sensing, International Journal of Applied Earth Observation and Geoinformation, International Journal of Image and Data Fusion, International Journal of Remote Sensing, ISPRS Journal of Photogrammetry and Remote Sensing, Journal of Applied Remote Sensing, Landscape and Urban Planning, PeerJ, Remote Sensing Applications: Society and Environment, Remote Sensing of Environment, Remote Sensing, Sensors, Tropical Ecology}
+ 
+# OUTREACH
+
+## **Online training materials**
+
+ >  \href{https://rspatial.org/}{Spatial Data Science with R} (co-author)
+ 
+ >  \href{https://gfc.ucdavis.edu/events/agrin/html/}{Remote sensing for agricultural insurance} (co-author)
+
+## **Public media**
+
+ >  \href{https://blogs.k-state.edu/siil/2017/11/20/worldclim2/}{WorldClim 2: High Resolution Climate Surfaces for Global Land Areas}
+
+ >  \href{https://blogs.k-state.edu/siil/2018/06/06/conservation-challenges-for-sustainable-intensification-of-agriculture-in-africa/}{Conservation Challenges for Sustainable Intensification of Agriculture in Africa}
+ 
