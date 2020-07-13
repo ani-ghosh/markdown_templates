@@ -3,10 +3,10 @@ title: "CV"
 author: "Aniruddha Ghosh"
 email: A.Ghosh@cgiar.org
 output:
-  word_document: default
   pdf_document:
     latex_engine: pdflatex
     template: rap-latex-cv.tex
+  word_document: default
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 10pt
@@ -61,7 +61,8 @@ urlcolor: blue
 
 # PUBLICATIONS
 
-## **Journal Articles**
+## **Journal Articles (published)**
+ > Wang, H., Ghosh, A., Linquist, BA., Hijmans, RJ., Satellite-Based Observations Reveal Effects of Weather Variation on Rice Phenology. \emph{Remote Sensing}, 12(9), 2020.
 
  > Smith, J., Ghosh, A., Hijmans, RJ., Agricultural intensification is associated with crop diversification in India. \emph{PLoS ONE}, 14(12), 2019.
 
@@ -113,7 +114,32 @@ urlcolor: blue
 
  > Munsi, M., Areendran, G., Ghosh, A., Joshi, PK.  Landscape characterisation of the forests of Himalayan foothills. \emph{Journal of the Indian Society of Remote Sensing}, 38(3):441--31452, 2010.
 
+## **Journal Articles (under review)**
+
+ > Benami, E., Jin, Z., Carter, MR., Ghosh, A., Hijmans, RJ., Hobbs, A., Kenduiywo, B., Lobell, DB., Uniting Advances in Remote Sensing, Crop Modeling, & Economics for Agricultural Risk Management (in review: Nature Reviews Earth & Environment).
+
+ > Springborn, M.R., Weill, J.A., Lips, K.R., Ibanez, R., Ghosh, A., Amphibian Collapses Exacerbated Malaria Outbreaks in Central America (in review: Proceedings of the National Academy of Sciences of the United States of America).
+
+## **Journal Articles (under preparation/submitted)**
+
+ > Tiedeman, K., Ghosh, A., Paul, L., Flatnes, JE., Hijmans, RJ., Mapping maize area in Tanzania: a comparison of MODIS, Landsat 8, Sentinel, and Planet satellite data. 
+ 
+ > Kenduiywo, B., Ghosh, A., Carter, MR., Hijmans, RJ., Evaluating the Quality of Remote Sensing Products for Agricultural Index Insurance. 
+ 
+ > Ochoa-Brito, JI., Ghosh, A., Hijmans, RJ., Cropland expansion in Ecuador between 2000 and 2016.
+ 
+ > Sok, S., Chhinh, N., Ghosh, A., Hijmans, RJ., Sanara, H., Impact of climate change on cultivated rice paddy areas: a comparative study in the Tonle Sap and the Mekong River.
+ 
+ > Lwehabura, J., Stewart, ZP., Rubyogo, JC., Prasad, PVV., Mason, N., Snapp, S., Kilango, M., Ghosh, A., Geospatial analysis for scaling bean technology adoption in Tanzania.
+ 
+ > Collins, AC., Borgerhoff Mulder, A., Grote, M., Ghosh, A., Andrews, J., Ali, S., Hamadi, B., Khamis, H., Mzee, A., Ngwali, A., Salerno, J., Caro, T. Determining the efficacy of community-based forest management in Zanzibar.
+ 
+ > Ghosh, A., Engle-Stone, R., Charles, D.A., Xiuping, T., Mandel, A., Advancing household survey designs with open source geospatial tools.
+
+
 ## **Proceedings**
+
+ > Kenduiywo, B., Ghosh, A., Hijmans, RJ., Ndungu,L., Rapid Maize Yield Estimation in Kenya Using MODIS, \emph{ISPRS proceedings of the 2020 edition of the XXIVth congress}, 2020. 
 
  > Shew, A., Ghosh, A., Using multi-temporal remote sensing data to understand the spatio-temporal patterns of dry season rice production in Bangladesh. \emph{ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Volume IV-4/W2}, 2017.
  
@@ -154,6 +180,21 @@ urlcolor: blue
  > Spatial Data Analysis and Modeling for Agricultural Development, with R. Tanzania, August 2016.
 
  > Introduction to Google Earth Engine platform: Introduction and hands-on workshop, Davis, CA, April 2016.
+ 
+
+# Sponsored Research and Programs
+ 
+ > \emph{Rapid diagnostics of COVID-19 farming impacts}, funded by the \href{https://bigdata.cgiar.org/inspire/rapid-response-grants/}{The CGIAR Platform for Big Data in Agriculture}; Co-PI. 
+ 
+ > \href{gfc.ucdavis.edu}{Geospatial and Farming Systems Research Consortium (GFC)}, funded by the \href{https://www.k-state.edu/siil/index.html}{USAID Feed the Future Innovation Lab for Sustainable Intensification}; Program coordinator. \hfill {July 2015 to Sep 2019}
+
+ > \emph{Developing Advanced Index-Insurance Products for Ghanaian Smallholder Farmers}, funded by the
+ \href{https://basis.ucdavis.edu/}{USAID Feed the Future Innovation Lab for Assets and Market Access}; Co-I. \hfill {May 2019 to December 2019}
+
+ > \emph{High spatial resolution maize distribution and yield maps for Tanzania}, funded by the \href{https://basis.ucdavis.edu/}{USAID Feed the Future Innovation Lab for Assets and Market Access}; Co-I. \hfill {May 2018 to Dec 2019}
+
+ > \emph{Climate change impact on rice yield and food security in the riverine communities in Cambodia}, funded by the \href{http://sites.nationalacademies.org/pga/peer/index.htm}{USAID PEER}; Co-I. \hfill {November 2018 - October 2020} 
+ 
 
 # Technical Skills
 
