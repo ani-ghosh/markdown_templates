@@ -3,16 +3,16 @@ title: "CV"
 author: "Aniruddha Ghosh"
 email: A.Ghosh@cgiar.org
 output:
-  word_document: default
   pdf_document:
     latex_engine: pdflatex
     template: rap-latex-cv.tex
+  word_document: default
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 10pt
 geometry: margin=1in
 github: ani-ghosh
-jobtitle: Agricultural Risk Data Scientist
+jobtitle: Associate Scientist
 keywords: RMarkdown, academic CV, template
 linkcolor: blue
 orcid: orcid.org/0000-0003-3667-8019
@@ -31,15 +31,15 @@ urlcolor: blue
 
 *University of Calcutta*, B.Sc. Physics \hfill 2006
 
-# EMPLOYMENT
+# EMPLOYMENT/ACADEMIC APPOINTMENT
 
-*Alliance of Bioversity International and CIAT, Nairobi, Kenya:* \hfill 2020--
+*Alliance of Bioversity International and CIAT, Nairobi, Kenya: Associate Scientist* \hfill 2020--
 
- > Coordinate climate impact modeling to assess impact of climate variability on agriculture 
- 
- > Develop agriculture risk profiling system and database
+ > Devlop novel monitoring toools for agricultural systems to better understand risk and shocks to support of development of adaptation and mitigation strategies 
 
-*University of California, Davis, California:*  \hfill 2015--2020
+ > Design big data analytics for farming and food systems
+
+*University of California, Davis, California: Project Scientist*  \hfill 2015--2020
 
  > Develop big data and machine learning analytics tools for agriculture monitoring and crop yield prediction to support agriculture index insurance
  
@@ -47,22 +47,22 @@ urlcolor: blue
  
  > Organize workshops on spatial data science for agriculture with free and open source tools
 
-*Colorado State University, Fort Collins, Colorado:*  \hfill 2014--2015 
+*Colorado State University, Fort Collins, Colorado: Postdoctoral Researcher*  \hfill 2014--2015 
 
  > Characterize post-fire vegetation recovery using remote sensing
  
-*TERI University, New Delhi, India:*  \hfill 2009--2014
+*TERI University, New Delhi, India: Graduate Student Researcher*  \hfill 2009--2014
 
  >  Multi-sensor remote sensing image fusion for different environmental applications
 
-*University of Freiburg, Freiburg, Germany:*  \hfill 2012
+*University of Freiburg, Freiburg, Germany: Visting Researcher*  \hfill 2012
 
  >  Hyperspectral and LiDAR data analysis for forestry applications
 
 # PUBLICATIONS
 
 ## **Journal Articles (published)**
- > Benami, E., Jin, Z., Carter, MR., Ghosh, A., Hijmans, RJ., Hobbs, A., Kenduiywo, B., Lobell, DB., Uniting remote sensing, crop modeling, and economics for agricultural risk management. \emph{Nat Rev Earth Environ (accepted)}.
+ > Benami, E., Jin, Z., Carter, MR., Ghosh, A., Hijmans, RJ., Hobbs, A., Kenduiywo, B., Lobell, DB., Uniting remote sensing, crop modeling, and economics for agricultural risk management. \emph{Nat Rev Earth Environ}, 2021.
  
  > Wang, H., Ghosh, A., Linquist, BA., Hijmans, RJ., Satellite-Based Observations Reveal Effects of Weather Variation on Rice Phenology. \emph{Remote Sensing}, 12(9), 2020.
 
@@ -114,30 +114,21 @@ urlcolor: blue
 
  > Joshi, PK., Narula, S., Rawat, A., Ghosh, A., Landscape characterization of Sariska National Park (India) and its surroundings. \emph{Geo-spatial Information Science}, 14(4): 303--310, 2011.
 
- > Munsi, M., Areendran, G., Ghosh, A., Joshi, PK.  Landscape characterisation of the forests of Himalayan foothills. \emph{Journal of the Indian Society of Remote Sensing}, 38(3):441--31452, 2010.
+ > Munsi, M., Areendran, G., Ghosh, A., Joshi, PK.,  Landscape characterisation of the forests of Himalayan foothills. \emph{Journal of the Indian Society of Remote Sensing}, 38(3):441--31452, 2010.
 
 ## **Journal Articles (under review)**
 
- > Springborn, M.R., Weill, J.A., Lips, K.R., Ibanez, R., Ghosh, A., Amphibian Collapses Exacerbated Malaria Outbreaks in Central America (in review: Proceedings of the National Academy of Sciences of the United States of America).
+ > Springborn, M.R., Weill, J.A., Lips, K.R., Ibanez, R., Ghosh, A., Amphibian Collapses Exacerbated Malaria Outbreaks in Central America. \emph{in review: Proceedings of the National Academy of Sciences of the United States of America}.
+ 
+  > Kenduiywo, B., Ghosh, A., Carter, MR., Hijmans, RJ., Evaluating the Quality of Remote Sensing Products for Agricultural Index Insurance. \emph{in review: PLoS ONE}. 
+  
+  > Collins, A., Grote, M., Caro, T., Ghosh, A., Thorne, J., Mulder, MB., How community forest management performs when REDD+ payments fail. \emph{in review: Environmental Research Letters}.
 
-## **Journal Articles (under preparation/submitted)**
+## **Working Paper/Report**
 
- > Tiedeman, K., Ghosh, A., Paul, L., Flatnes, JE., Hijmans, RJ., Mapping maize area in Tanzania: a comparison of MODIS, Landsat 8, Sentinel, and Planet satellite data. 
- 
- > Kenduiywo, B., Ghosh, A., Carter, MR., Hijmans, RJ., Evaluating the Quality of Remote Sensing Products for Agricultural Index Insurance. 
- 
- > Ochoa-Brito, JI., Ghosh, A., Hijmans, RJ., Cropland expansion in Ecuador between 2000 and 2016.
+> Jarvis, A., Rosenstock, T., Koo, J., Thornton, P., Loboguerrero, A., Govaerts, B., Ramírez-Villegas, J., Prager, SD., Ghosh, A., Fuglie, K., Climate-informed priorities for One CGIAR Regional Integrated Initiatives. \emph{CGIAR Research Program on Climate Change, Agriculture and Food Security (CCAFS)}, 2021.
 
- > Ochoa-Brito, JI., Ghosh, A., Hijmans, RJ., Jin, Y., Comparing performance of multiple satellite data to map croplands in cloudy and complex terrains.
- 
- > Sok, S., Chhinh, N., Ghosh, A., Hijmans, RJ., Sanara, H., Impact of climate change on cultivated rice paddy areas: a comparative study in the Tonle Sap and the Mekong River.
- 
- > Lwehabura, J., Stewart, ZP., Rubyogo, JC., Prasad, PVV., Mason, N., Snapp, S., Kilango, M., Ghosh, A., Geospatial analysis for scaling bean technology adoption in Tanzania.
- 
- > Collins, AC., Borgerhoff Mulder, A., Grote, M., Ghosh, A., Andrews, J., Ali, S., Hamadi, B., Khamis, H., Mzee, A., Ngwali, A., Salerno, J., Caro, T. Determining the efficacy of community-based forest management in Zanzibar.
- 
- > Ghosh, A., Engle-Stone, R., Charles, D.A., Xiuping, T., Mandel, A., Advancing household survey designs with open source geospatial tools.
-
+> Koo, J., Azzarri, C., Ghosh, A., Quabili, W., Assessing the risk of COVID-19 in Feed the Future countries. \emph{GCAN Policy Note 13. Washington, DC: International Food Policy Research Institute (IFPRI)}, https://doi.org/10.2499/p15738coll2.134271, 2021.
 
 ## **Proceedings**
 
@@ -211,13 +202,11 @@ urlcolor: blue
 ## **Software Development**
 
  > \href{https://cran.r-project.org/web/packages/raster/index.html}{raster : Geographic Data Analysis and Modeling} (contributor) 
-
  > \href{https://github.com/rspatial/luna}{luna : satellite remote sensing tools}(co-author)
 
 ## **Equipment**
 
  > Unmanned Aerial Vehicle (UAV) for agricultural applications
-
  > ASD Field spectroradiometer, LiCOR Plant Canopy Analyzer
 
 # AWARDS
@@ -240,19 +229,19 @@ urlcolor: blue
 
 ## **Data/Instrument**
 
- > DigitalGlobe Imagery Grant\hfill 2012
- 
- > Alexander Goetz Instrument Support Program \emph{(not availed)}\hfill 2012
+ > DigitalGlobe Imagery Grant, Alexander Goetz Instrument Support Program \emph{(not availed)} \hfill 2012
 
 # PRESENTATIONS
 
 ## **Conference**
 
- > Shew, AM., Ghosh, A., Track, JB., Nalley, LL., Estimating Crop Planting Delays and Phenological Variation caused by Extreme Rainfall Events in the US Lower Mississippi River Basin using Earth Observation Systems. \emph{AGU Fall Meeting 2019} \hfill{Dec 2018}
+ > Kramer, T., Tabalia, A., de Heu, R., Ghosh, A., Operational Agricultural Index Insurance for Kenyan Smallholder Farmers Based on Satellite Derived Soil Moisture. \emph{AGU Fall Meeting 2020}
+ 
+ > Shew, AM., Ghosh, A., Track, JB., Nalley, LL., Estimating Crop Planting Delays and Phenological Variation caused by Extreme Rainfall Events in the US Lower Mississippi River Basin using Earth Observation Systems. \emph{AGU Fall Meeting 2019}
 
- > Wang, H., Ghosh, A., Hijmans, RJ., Climate-Driven Changes in Rice Phenology in California. \emph{AGU Fall Meeting 2019} \hfill{Dec 2018}
+ > Wang, H., Ghosh, A., Hijmans, RJ., Climate-Driven Changes in Rice Phenology in California. \emph{AGU Fall Meeting 2019}
 
- > Springborn, M.R., Weill, J.A., Lips, K.R., Ibanez, R.,Ghosh, A., Ecosystem Service Impacts of Ecological Disruption: Evidence from Malaria Incidence in Central America. \emph{GeoVet 2019. Novel spatio-temporal approaches in the era of Big Data, Davis, CA}. \hfill {Oct, 2019}
+ > Springborn, M.R., Weill, J.A., Lips, K.R., Ibanez, R.,Ghosh, A., Ecosystem Service Impacts of Ecological Disruption: Evidence from Malaria Incidence in Central America. \emph{GeoVet 2019. Novel spatio-temporal approaches in the era of Big Data, Davis, CA}
 
  > Shew, AM., Owens, P.R., Ghosh, A., Solving Agricultural and Environmental Problems: GIS Today and Tomorrow. \emph{AR GIS Users Forum and OPENGATE Outreach Partnership Conference, Little Rock, AR}. \hfill {Nov, 2018}
 
@@ -302,12 +291,11 @@ urlcolor: blue
 
  > Ghosh, A., Mandel, A., Hijmans, RJ., Geospatial Consortium, \emph{USAID Workshop on Innovation for Data-Driven Agriculture, Boulder, CO.} \hfill{April 2017}
 
- > Ghosh, A., \emph{OSGeo California Chapter Annual Meeting, Davis, CA.} hfill{Jan 2016}
-
 # PROFESSIONAL SERVICE
 
-## **Academic** \hfill {2015 -- 2020}
- > Coordinator, Center for Spatial Sciences, University of California, Davis
+## **Academic**
+ > Guest Editor, \emph{Frontiers in Sustainable Food Systems, Remote Sensing}
+ > Coordinator, Center for Spatial Sciences, University of California, Davis, hfill{2015 -- 2020}
 
  > Scientific Committee member of the Academic Track of FOSS4G 2018 (Free and Open Source For Geospatial 2018), Tanzania, August 2018
 
@@ -319,13 +307,23 @@ urlcolor: blue
 
 ## **Online training materials**
 
- >  \href{https://rspatial.org/}{Spatial Data Science with R} (co-author)
+ >  \href{https://rspatial.org/}{Spatial Data Science with R} (co-author);
+ 
+ >  \href{https://reagro.org/}{Regional Agronomy} (contributor);
+ 
+ >  \href{https://www.youtube.com/watch?v=oosUzVJbExg}{Webinar - Agricultural Monitoring with Planet Data};
  
  >  \href{https://gfc.ucdavis.edu/events/agrin/html/}{Remote sensing for agricultural insurance} (co-author)
 
 ## **Public media**
 
- >  \href{https://blogs.k-state.edu/siil/2017/11/20/worldclim2/}{WorldClim 2: High Resolution Climate Surfaces for Global Land Areas}
-
+ > \href{https://www.ifpri.org/blog/rural-populations-face-heightened-covid-19-risks}{Rural populations face heightened COVID-19 risks};
+ 
+ > \href{https://www.youtube.com/watch?v=5b2xhqlH49I}{Terra and Luna: New R packages scalable geospatial data analysis - 2020 Convention session};
+ 
+ > \href{https://www.youtube.com/watch?v=-gvhZwwgF_Q}{Explore the GARDIAN Ecosystem with us! - 2020 Convention session};
+ 
+ >  \href{https://blogs.k-state.edu/siil/2017/11/20/worldclim2/}{WorldClim 2: High Resolution Climate Surfaces for Global Land Areas};
+ 
  >  \href{https://blogs.k-state.edu/siil/2018/06/06/conservation-challenges-for-sustainable-intensification-of-agriculture-in-africa/}{Conservation Challenges for Sustainable Intensification of Agriculture in Africa}
  
