@@ -38,6 +38,8 @@ urlcolor: blue
  > Devlop novel monitoring toools for agricultural systems to better understand risk and shocks to support of development of adaptation and mitigation strategies 
 
  > Design big data analytics for farming and food systems
+ 
+*University of Arkansas, Department of Agricultural Economics and Agribusiness, Fayetteville, Arkansas: Adjunct Faculty* \hfill 2021-- 
 
 *University of California, Davis, California: Project Scientist*  \hfill 2015--2020
 
@@ -61,7 +63,11 @@ urlcolor: blue
 
 # PUBLICATIONS
 
-## **Journal Articles (published)**
+## **Journal Articles (published/Accepted)**
+  > Manners, R., Adewopo, J., Niyibituronsa, M., Remans, R., Ghosh, A., Schut, M., Egoeh, SG., Kilwenge, R., Fraenzel, A., Leveraging digital tools and crowdsourcing approaches to generate high-frequency data for diet quality monitoring at population scale in Rwanda. \emph{Frontiers In Sustainable Food Systems, accepted}. 
+  
+  > Kenduiywo, B., Ghosh, A., Carter, MR., Hijmans, RJ., Evaluating the Quality of Remote Sensing Products for Agricultural Index Insurance. \emph{PLoS ONE}, 16(10), 2021. 
+  
  > Benami, E., Jin, Z., Carter, MR., Ghosh, A., Hijmans, RJ., Hobbs, A., Kenduiywo, B., Lobell, DB., Uniting remote sensing, crop modeling, and economics for agricultural risk management. \emph{Nat Rev Earth Environ}, 2021.
  
  > Wang, H., Ghosh, A., Linquist, BA., Hijmans, RJ., Satellite-Based Observations Reveal Effects of Weather Variation on Rice Phenology. \emph{Remote Sensing}, 12(9), 2020.
@@ -117,18 +123,33 @@ urlcolor: blue
  > Munsi, M., Areendran, G., Ghosh, A., Joshi, PK.,  Landscape characterisation of the forests of Himalayan foothills. \emph{Journal of the Indian Society of Remote Sensing}, 38(3):441--31452, 2010.
 
 ## **Journal Articles (under review)**
+ > Ochoa-Brito, JI., Ghosh, A., Hijmans, RJ., Cropland expansion in Ecuador between 2000 and 2016. \emph{in review: Remote Sensing}.
 
- > Springborn, M.R., Weill, J.A., Lips, K.R., Ibanez, R., Ghosh, A., Amphibian Collapses Exacerbated Malaria Outbreaks in Central America. \emph{in review: Proceedings of the National Academy of Sciences of the United States of America}.
- 
-  > Kenduiywo, B., Ghosh, A., Carter, MR., Hijmans, RJ., Evaluating the Quality of Remote Sensing Products for Agricultural Index Insurance. \emph{in review: PLoS ONE}. 
+ > Springborn, MR., Weill, JA., Lips, KR., Ibanez, R., Ghosh, A., Amphibian Collapses Exacerbated Malaria Outbreaks in Central America. \emph{in review: Proceedings of the National Academy of Sciences of the United States of America}.
   
-  > Collins, A., Grote, M., Caro, T., Ghosh, A., Thorne, J., Mulder, MB., How community forest management performs when REDD+ payments fail. \emph{in review: Environmental Research Letters}.
+ > Collins, A., Grote, M., Caro, T., Ghosh, A., Thorne, J., Mulder, MB., How community forest management performs when REDD+ payments fail. \emph{in review: Environmental Research Letters}.
 
 ## **Working Paper/Report**
 
-> Jarvis, A., Rosenstock, T., Koo, J., Thornton, P., Loboguerrero, A., Govaerts, B., Ramírez-Villegas, J., Prager, SD., Ghosh, A., Fuglie, K., Climate-informed priorities for One CGIAR Regional Integrated Initiatives. \emph{CGIAR Research Program on Climate Change, Agriculture and Food Security (CCAFS)}, 2021.
+ > Ghosh, A., Chamberlin, J., McDonald, A., Sonder, K., Vanlauwe, B., Prioritization of target geographies for Excellence in Agronomy One CGIAR global initiative, 2021.
 
-> Koo, J., Azzarri, C., Ghosh, A., Quabili, W., Assessing the risk of COVID-19 in Feed the Future countries. \emph{GCAN Policy Note 13. Washington, DC: International Food Policy Research Institute (IFPRI)}, https://doi.org/10.2499/p15738coll2.134271, 2021.
+ > Jarvis, A., Rosenstock, T., Koo, J., Thornton, P., Loboguerrero, A., Govaerts, B., Ramírez-Villegas, J., Prager, SD., Ghosh, A., Fuglie, K., Climate-informed priorities for One CGIAR Regional Integrated Initiatives. \emph{CGIAR Research Program on Climate Change, Agriculture and Food Security (CCAFS)}, 2021.
+
+ > Koo, J., Azzarri, C., Ghosh, A., Quabili, W., Assessing the risk of COVID-19 in Feed the Future countries. \emph{GCAN Policy Note 13. Washington, DC: International Food Policy Research Institute (IFPRI)}, https://doi.org/10.2499/p15738coll2.134271, 2021.
+
+ > Koo, J., Azzarri, C., Ghosh, A., Quabili, W., Assessing the risk of COVID-19 in Bangladesh. \emph{International Food Policy Research Institute (IFPRI)}, 2021.
+
+ > Koo, J., Azzarri, C., Ghosh, A., Quabili, W., Assessing the risk of COVID-19 in Ethiopia. \emph{International Food Policy Research Institute (IFPRI)}, 2021.
+
+ > Koo, J., Azzarri, C., Ghosh, A., Quabili, W., Assessing the risk of COVID-19 in Ghana. \emph{International Food Policy Research Institute (IFPRI)}, 2021.
+
+ > Ramirez-Villegas, J., Ghosh, A., Craparo, S., Thornton, P., Manvatkar, R., Bogart, B., Läderach, P., Climate change and its impacts in Southern Africa: A synthesis of existing evidence in support of the World Food Programme’s 2021 Climate Change. \emph{Position Paper. CGIAR Research Program on Climate Change, Agriculture and Food Security Working Paper}, 2021.
+ 
+ > Ramirez-Villegas, J., Rosenstock, TS., Steward, P., Bonilla-Cedrez, C., Notenbaert, AMO., Flintan, F., Crane, TA., Arango, J., Louhaichi, M., Bullock, RM., & others. Data and evidence-driven assessment of priorities for the Livestock, Climate and System Resilience (LCSR) One CGIAR global initiative, 2021.
+ 
+## **Book Chapter**
+
+ > Koo, J., Kramer, B., Langan, S., Ghosh, A., Gardeazabal Monsalue, A., Lunt, T. (forthcoming), Digital innovations for climate-resilient agri-food systems, \emph{Global Food Policy Report}, 2022.
 
 ## **Proceedings**
 
@@ -157,7 +178,6 @@ urlcolor: blue
  > Free and Open Source Software for AgroGeoinformatics (FOSS4AG), Dhaka, Bangladesh, February 2020.
 
  > Spatial Data Analysis with R and Remote Sensing with Google Earth Engine, Ibadan, Nigeria, January 2020.  
-
  > Using R as an Open Source Geographic Information System, 2019 Training & Symposium Arkansas GIS Users Forum, Eureka Springs, AR, October 2019. 
 
  > Spatial Distribution Modeling with R, GeoVet 2019, Davis, CA, October 2019.
@@ -173,11 +193,16 @@ urlcolor: blue
  > Spatial Data Analysis and Modeling for Agricultural Development, with R. Tanzania, August 2016.
 
  > Introduction to Google Earth Engine platform: Introduction and hands-on workshop, Davis, CA, April 2016.
- 
 
 # Sponsored Research and Programs
+
+ > \emph{Scaling Financial and Information Services for Smallholder Adaptation}, funded by the \href{https://www.thegef.org/}{Global Environment Facility (GEF)}; PI. 
  
- > \emph{Rapid diagnostics of COVID-19 farming impacts}, funded by the \href{https://bigdata.cgiar.org/inspire/rapid-response-grants/}{The CGIAR Platform for Big Data in Agriculture}; Co-PI. 
+  > \emph{Prioritization module for Excellence in Agronomy}, funded by the \href{https://www.iita.org/iita-project/cgiar-excellence-in-agronomy-2030-incubation-phase/}{CGIAR Excellence in Agronomy 2030}; PI. 
+ 
+ > \emph{Developing rapid digital analytics to understand and mitigate the effect of COVID-19 on farming communities}, funded by the \href{https://bigdata.cgiar.org/inspire}{The CGIAR Platform for Big Data in Agriculture}; PI. 
+ 
+  > \emph{Citizen H2D3}, funded by the \href{https://bigdata.cgiar.org/inspire/rapid-response-grants/}{The CGIAR Platform for Big Data in Agriculture}.
  
  > \href{gfc.ucdavis.edu}{Geospatial and Farming Systems Research Consortium (GFC)}, funded by the \href{https://www.k-state.edu/siil/index.html}{USAID Feed the Future Innovation Lab for Sustainable Intensification}; Program coordinator. \hfill {July 2015 to Sep 2019}
 
@@ -188,7 +213,6 @@ urlcolor: blue
 
  > \emph{Climate change impact on rice yield and food security in the riverine communities in Cambodia}, funded by the \href{http://sites.nationalacademies.org/pga/peer/index.htm}{USAID PEER}; Co-I. \hfill {November 2018 - October 2020} 
  
-
 # Technical Skills
 
 ## **Computational**
@@ -301,7 +325,7 @@ urlcolor: blue
 
 ## **Journal Reviewer** \hfill {2011 -- }
 
- > \emph{Advances in Space Research, Applied Geography, Applied Sciences, Arabian Journal of Geosciences, Canadian Jounral of Remote Sensing, Ecological Indicators, Egyptian Journal of Remote Sensing, Environmental Earth Sciences, Environmental Research Letters, European Journal of Remote Sensing, Geocarto International, GIScience \& Remote Sensing, IEEE Transactions on Geoscience and Remote Sensing, International Journal of Applied Earth Observation and Geoinformation, International Journal of Image and Data Fusion, International Journal of Remote Sensing, ISPRS Journal of Photogrammetry and Remote Sensing, Journal of Applied Remote Sensing, Landscape and Urban Planning, PeerJ, Remote Sensing Applications: Society and Environment, Remote Sensing of Environment, Remote Sensing, Sensors, Tropical Ecology}
+ > \emph{Advances in Space Research, Applied Geography, Applied Sciences, Arabian Journal of Geosciences, Canadian Jounral of Remote Sensing, Development Engineering, Ecological Indicators, Egyptian Journal of Remote Sensing, Environmental Earth Sciences, Environmental Research Letters, European Journal of Remote Sensing, Geocarto International, GIScience \& Remote Sensing, IEEE Transactions on Geoscience and Remote Sensing, International Journal of Applied Earth Observation and Geoinformation, International Journal of Image and Data Fusion, International Journal of Remote Sensing, ISPRS Journal of Photogrammetry and Remote Sensing, Journal of Applied Remote Sensing, Landscape and Urban Planning, PeerJ, Remote Sensing Applications: Society and Environment, Remote Sensing of Environment, Remote Sensing, Sensors, Tropical Ecology}
  
 # OUTREACH
 
