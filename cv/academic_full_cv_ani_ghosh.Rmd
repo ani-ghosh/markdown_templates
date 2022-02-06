@@ -35,7 +35,7 @@ urlcolor: blue
 
 *Alliance of Bioversity International and CIAT, Nairobi, Kenya: Associate Scientist* \hfill 2020--
 
- > Devlop novel monitoring toools for agricultural systems to better understand risk and shocks to support of development of adaptation and mitigation strategies 
+ > Devlop novel monitoring tools for agricultural systems to better understand risk and shocks to support of development of adaptation and mitigation strategies 
 
  > Design big data analytics for farming and food systems
  
@@ -65,7 +65,9 @@ urlcolor: blue
 
 ## **Journal Articles (published/Accepted)**
   > Manners, R., Adewopo, J., Niyibituronsa, M., Remans, R., Ghosh, A., Schut, M., Egoeh, SG., Kilwenge, R., Fraenzel, A., Leveraging digital tools and crowdsourcing approaches to generate high-frequency data for diet quality monitoring at population scale in Rwanda. \emph{Frontiers In Sustainable Food Systems, accepted}. 
-  
+   
+   > Collins, A., Grote, M., Caro, T., Ghosh, A., Thorne, J., Mulder, MB., How community forest management performs when REDD+ payments fail. \emph{Environmental Research Letters, accepted}.
+   
   > Kenduiywo, B., Ghosh, A., Carter, MR., Hijmans, RJ., Evaluating the Quality of Remote Sensing Products for Agricultural Index Insurance. \emph{PLoS ONE}, 16(10), 2021. 
   
  > Benami, E., Jin, Z., Carter, MR., Ghosh, A., Hijmans, RJ., Hobbs, A., Kenduiywo, B., Lobell, DB., Uniting remote sensing, crop modeling, and economics for agricultural risk management. \emph{Nat Rev Earth Environ}, 2021.
@@ -126,8 +128,6 @@ urlcolor: blue
  > Ochoa-Brito, JI., Ghosh, A., Hijmans, RJ., Cropland expansion in Ecuador between 2000 and 2016. \emph{in review: Remote Sensing}.
 
  > Springborn, MR., Weill, JA., Lips, KR., Ibanez, R., Ghosh, A., Amphibian Collapses Exacerbated Malaria Outbreaks in Central America. \emph{in review: Proceedings of the National Academy of Sciences of the United States of America}.
-  
- > Collins, A., Grote, M., Caro, T., Ghosh, A., Thorne, J., Mulder, MB., How community forest management performs when REDD+ payments fail. \emph{in review: Environmental Research Letters}.
 
 ## **Working Paper/Report**
 
@@ -142,9 +142,11 @@ urlcolor: blue
  > Koo, J., Azzarri, C., Ghosh, A., Quabili, W., Assessing the risk of COVID-19 in Ethiopia. \emph{International Food Policy Research Institute (IFPRI)}, 2021.
 
  > Koo, J., Azzarri, C., Ghosh, A., Quabili, W., Assessing the risk of COVID-19 in Ghana. \emph{International Food Policy Research Institute (IFPRI)}, 2021.
+ 
+ > Olofsson, P., Koo, J., Ghosh, A., Krishnamurthy, K., State of the science for ground truthing in crop analytics. https://cropanalytics.net/wp-content/uploads/2022/01/State-of-the-Science-of-Ground-Truth-Training-Data-2021.pdf, 2021.
 
  > Ramirez-Villegas, J., Ghosh, A., Craparo, S., Thornton, P., Manvatkar, R., Bogart, B., Läderach, P., Climate change and its impacts in Southern Africa: A synthesis of existing evidence in support of the World Food Programme’s 2021 Climate Change. \emph{Position Paper. CGIAR Research Program on Climate Change, Agriculture and Food Security Working Paper}, 2021.
- 
+
  > Ramirez-Villegas, J., Rosenstock, TS., Steward, P., Bonilla-Cedrez, C., Notenbaert, AMO., Flintan, F., Crane, TA., Arango, J., Louhaichi, M., Bullock, RM., & others. Data and evidence-driven assessment of priorities for the Livestock, Climate and System Resilience (LCSR) One CGIAR global initiative, 2021.
  
 ## **Book Chapter**
@@ -196,22 +198,22 @@ urlcolor: blue
 
 # Sponsored Research and Programs
 
- > \emph{Scaling Financial and Information Services for Smallholder Adaptation}, funded by the \href{https://www.thegef.org/}{Global Environment Facility (GEF)}; PI. 
+ > \emph{Scaling Financial and Information Services for Smallholder Adaptation}, funded by the \href{https://www.thegef.org/}{Global Environment Facility (GEF)}. 
  
-  > \emph{Prioritization module for Excellence in Agronomy}, funded by the \href{https://www.iita.org/iita-project/cgiar-excellence-in-agronomy-2030-incubation-phase/}{CGIAR Excellence in Agronomy 2030}; PI. 
+  > \emph{Prioritization module for Excellence in Agronomy}, funded by the \href{https://www.iita.org/iita-project/cgiar-excellence-in-agronomy-2030-incubation-phase/}{CGIAR Excellence in Agronomy 2030}. 
  
- > \emph{Developing rapid digital analytics to understand and mitigate the effect of COVID-19 on farming communities}, funded by the \href{https://bigdata.cgiar.org/inspire}{The CGIAR Platform for Big Data in Agriculture}; PI. 
+ > \emph{Developing rapid digital analytics to understand and mitigate the effect of COVID-19 on farming communities}, funded by the \href{https://bigdata.cgiar.org/inspire}{The CGIAR Platform for Big Data in Agriculture}. 
  
   > \emph{Citizen H2D3}, funded by the \href{https://bigdata.cgiar.org/inspire/rapid-response-grants/}{The CGIAR Platform for Big Data in Agriculture}.
  
  > \href{gfc.ucdavis.edu}{Geospatial and Farming Systems Research Consortium (GFC)}, funded by the \href{https://www.k-state.edu/siil/index.html}{USAID Feed the Future Innovation Lab for Sustainable Intensification}; Program coordinator. \hfill {July 2015 to Sep 2019}
 
  > \emph{Developing Advanced Index-Insurance Products for Ghanaian Smallholder Farmers}, funded by the
- \href{https://basis.ucdavis.edu/}{USAID Feed the Future Innovation Lab for Assets and Market Access}; Co-I. \hfill {May 2019 to December 2019}
+ \href{https://basis.ucdavis.edu/}{USAID Feed the Future Innovation Lab for Assets and Market Access}. \hfill {May 2019 to December 2019}
 
- > \emph{High spatial resolution maize distribution and yield maps for Tanzania}, funded by the \href{https://basis.ucdavis.edu/}{USAID Feed the Future Innovation Lab for Assets and Market Access}; Co-I. \hfill {May 2018 to Dec 2019}
+ > \emph{High spatial resolution maize distribution and yield maps for Tanzania}, funded by the \href{https://basis.ucdavis.edu/}{USAID Feed the Future Innovation Lab for Assets and Market Access}. \hfill {May 2018 to Dec 2019}
 
- > \emph{Climate change impact on rice yield and food security in the riverine communities in Cambodia}, funded by the \href{http://sites.nationalacademies.org/pga/peer/index.htm}{USAID PEER}; Co-I. \hfill {November 2018 - October 2020} 
+ > \emph{Climate change impact on rice yield and food security in the riverine communities in Cambodia}, funded by the \href{http://sites.nationalacademies.org/pga/peer/index.htm}{USAID PEER}. \hfill {November 2018 - October 2020} 
  
 # Technical Skills
 
