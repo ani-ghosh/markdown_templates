@@ -12,7 +12,7 @@ fontfamilyoptions: sc, osf
 fontsize: 10pt
 geometry: margin=1in
 github: ani-ghosh
-jobtitle: Associate Scientist
+jobtitle: Agricultural Risk Data Scientist
 keywords: RMarkdown, academic CV, template
 linkcolor: blue
 orcid: orcid.org/0000-0003-3667-8019
@@ -33,14 +33,12 @@ urlcolor: blue
 
 # EMPLOYMENT/ACADEMIC APPOINTMENT
 
-*Alliance of Bioversity International and CIAT, Nairobi, Kenya: Associate Scientist* \hfill 2020--
-
- > Devlop novel monitoring tools for agricultural systems to better understand risk and shocks to support of development of adaptation and mitigation strategies 
-
- > Design big data analytics for farming and food systems
+*Alliance of Bioversity International and CIAT, Nairobi, Kenya * \hfill 2020--
+ > Devlop novel monitoring tools for agricultural systems to better understand risk and shocks to
+ support of development of adaptation and mitigation strategies
+ > Lead and design integration of climate modeling, remote sensing, and socio-economic model- ing to develop smallholder financing facilities
+ > Design big data analytics for farming and food systems; Build and strengthen CGIAR expertise on agronomic data, analytics and modeling
  
-*University of Arkansas, Department of Agricultural Economics and Agribusiness, Fayetteville, Arkansas: Adjunct Faculty* \hfill 2021-- 
-
 *University of California, Davis, California: Project Scientist*  \hfill 2015--2020
 
  > Develop big data and machine learning analytics tools for agriculture monitoring and crop yield prediction to support agriculture index insurance
@@ -64,9 +62,11 @@ urlcolor: blue
 # PUBLICATIONS
 
 ## **Journal Articles (published/Accepted)**
-  > Manners, R., Adewopo, J., Niyibituronsa, M., Remans, R., Ghosh, A., Schut, M., Egoeh, SG., Kilwenge, R., Fraenzel, A., Leveraging digital tools and crowdsourcing approaches to generate high-frequency data for diet quality monitoring at population scale in Rwanda. \emph{Frontiers In Sustainable Food Systems, accepted}. 
+  > Springborn, MR., Weill, JA., Lips, KR., Ibañez, R., Ghosh, A., Amphibian collapses increased malaria incidence in Central America. \emph{Environmental Research Letters}, 17(10), 2022.
+  
+  > Manners, R., Adewopo, J., Niyibituronsa, M., Remans, R., Ghosh, A., Schut, M., Egoeh, SG., Kilwenge, R., Fraenzel, A., Leveraging digital tools and crowdsourcing approaches to generate high-frequency data for diet quality monitoring at population scale in Rwanda. \emph{Frontiers In Sustainable Food Systems}, 5, 2022.
    
-   > Collins, A., Grote, M., Caro, T., Ghosh, A., Thorne, J., Mulder, MB., How community forest management performs when REDD+ payments fail. \emph{Environmental Research Letters, accepted}.
+   > Collins, A., Grote, M., Caro, T., Ghosh, A., Thorne, J., Mulder, MB., How community forest management performs when REDD+ payments fail. \emph{Environmental Research Letters}, 17(3), 2022.
    
   > Kenduiywo, B., Ghosh, A., Carter, MR., Hijmans, RJ., Evaluating the Quality of Remote Sensing Products for Agricultural Index Insurance. \emph{PLoS ONE}, 16(10), 2021. 
   
@@ -125,9 +125,11 @@ urlcolor: blue
  > Munsi, M., Areendran, G., Ghosh, A., Joshi, PK.,  Landscape characterisation of the forests of Himalayan foothills. \emph{Journal of the Indian Society of Remote Sensing}, 38(3):441--31452, 2010.
 
 ## **Journal Articles (under review)**
- > Ochoa-Brito, JI., Ghosh, A., Hijmans, RJ., Cropland expansion in Ecuador between 2000 and 2016. \emph{in review: Remote Sensing}.
-
- > Springborn, MR., Weill, JA., Lips, KR., Ibanez, R., Ghosh, A., Amphibian Collapses Exacerbated Malaria Outbreaks in Central America. \emph{in review: Proceedings of the National Academy of Sciences of the United States of America}.
+ > Ochoa-Brito, JI., Ghosh, A., Hijmans, RJ., Cropland expansion in Ecuador between 2000 and 2016. \emph{in review: PloS One}.
+ 
+ > Tzachor, A., Devare, M., Richards, C., Pypers, P., Ghosh, A., Koo, J., Johal, S., King, B., GPT goes to farm: Large Language Models could transform agricultural extension services, with humans in the loop. \emph{in review: Nature Food}.
+ 
+ > Funk, C. \emph{et. al.}, Tailored forecasts can predict extreme climate informing proactive interventions in East Africa. \emph{in review: Earth's Future}.
 
 ## **Working Paper/Report**
 
@@ -151,7 +153,8 @@ urlcolor: blue
  
 ## **Book Chapter**
 
- > Koo, J., Kramer, B., Langan, S., Ghosh, A., Gardeazabal Monsalue, A., Lunt, T. (forthcoming), Digital innovations for climate-resilient agri-food systems, \emph{Global Food Policy Report}, 2022.
+ > Koo, J., Kramer, B., Langan, S., Ghosh, A., Gardeazabal Monsalue, A., Lunt, T., Digital innovations for climate-resilient agri-food systems, \emph{Global Food Policy Report}, pp. 106-113, 2022.
+ 
 
 ## **Proceedings**
 
@@ -197,6 +200,8 @@ urlcolor: blue
  > Introduction to Google Earth Engine platform: Introduction and hands-on workshop, Davis, CA, April 2016.
 
 # Sponsored Research and Programs
+
+ > \emph{Accelerated Innovation Delivery Initiative (AID-I)}, funded by the \href{https://www.usaid.gov/}{United States Agency for International Development (USAID)}. 
 
  > \emph{Scaling Financial and Information Services for Smallholder Adaptation}, funded by the \href{https://www.thegef.org/}{Global Environment Facility (GEF)}. 
  
